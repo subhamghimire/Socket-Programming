@@ -5,9 +5,11 @@ port = 1255
 s.bind((host,port))
 #max 5 clients can be accepted
 s.listen(5)
+
 #accept connection with client
 socketclient, address = s.accept()
-#print("Got Connection from", address)
+
+##print("Got Connection from", address)
 con = True
 while con:
     msg = socketclient.recv(1024)
