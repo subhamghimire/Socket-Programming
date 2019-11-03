@@ -4,3 +4,4 @@ Socket programming using python
 ++++++++++++++++++++++++++++++++++++++++++<br>
 Run client.py file on android phone using  Python3 -IDE for python3 app on playstore.</h2>
 <img src="Mobile run this script.png" width=200px height= 300px></img>
+<h3> Set Host ip to IP of android phone </h3>
